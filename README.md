@@ -7,6 +7,7 @@ Round 4 - Port Adelaide vs Richmond</br>
 Round 7 - Sydney vs Geelong</br>
 Round 8 - Brisbane vs Fremantle</br>
 Round 8 - Western Bulldogs vs Carlton</br>
+Round 9 - Melbourne vs Carlton</br>
 
 ##### Available Stats
 Hitout</br>

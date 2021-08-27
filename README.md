@@ -1,5 +1,5 @@
 # AFL Play by play data
-This repo contains a csv of AFL play by play data sourced from afl.com.au for the 2021 AFL season. The file contains over 300,000 rows of data and growing.
+This repo contains a csv (split into 2 files as the single file got too large) of AFL play by play data sourced from afl.com.au for the 2021 AFL season. The files contains over 800,000 rows of data and growing.
 
 ##### Missing Games
 Round 4 - North Melbourne vs Adelaide</br>

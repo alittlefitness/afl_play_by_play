@@ -9,6 +9,7 @@ Round 8 - Brisbane vs Fremantle</br>
 Round 8 - Western Bulldogs vs Carlton</br>
 Round 9 - Melbourne vs Carlton</br>
 Round 23 - Carlton vs Greater Western Sydney</br>
+Round 24 (EF) - Western Bulldogs vs Essendon</br>
 
 ##### Available Stats
 Hitout</br>
